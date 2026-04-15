@@ -1,0 +1,7 @@
+../Core/Src/main.c:64:9:Compute_CRC8	4
+../Core/Src/main.c:82:5:main	2
+../Core/Src/main.c:154:6:SystemClock_Config	3
+../Core/Src/main.c:201:13:MX_SPI1_Init	2
+../Core/Src/main.c:239:13:MX_GPIO_Init	1
+../Core/Src/main.c:283:6:Update_All_Pumps	1
+../Core/Src/main.c:312:6:Error_Handler	1
